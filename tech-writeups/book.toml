@@ -1,0 +1,13 @@
+[book]
+title = "Technical Writeups"
+authors = ["Ceno Team"]
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+git-repository-url = "https://github.com/scroll-tech/ceno-blogs"
+edit-url-template = "https://github.com/scroll-tech/ceno-blogs/edit/main/tech-writeups/{path}"
