@@ -1,6 +1,7 @@
 # Summary
 
 - [Multi-variate ZK](./multi-variate-zk.md)
+	- [zkvm survey](./writeups/zkvm-survey.md)
 	- [de-virgo style sumcheck](./writeups/devirgo-sumcheck.md)
 
 - [Ceno zkVM](./ceno.md)
